@@ -10,11 +10,11 @@ Using Flutter and Firebase services.
 Login screen <br>
 <img src="https://github.com/SarahElzayat/ChatApp-Flutter/blob/master/screenshots/login.png" width="30%" height="30%"/>
 
-Signup screen
-<img src="https://github.com/SarahElzayat/max_firebase/tree/master/screenshots/signup.png" width="30%" height="30%"/>
+Signup screen <br>
+<img src="https://github.com/SarahElzayat/ChatApp-Flutter/blob/master/screenshots/signup.png" width="30%" height="30%"/>
 
-Chat screen
-<img src="https://github.com/SarahElzayat/max_firebase/tree/master/screenshots/chat.png" width="30%" height="30%"/>
+Chat screen <br>
+<img src="https://github.com/SarahElzayat/ChatApp-Flutter/blob/master/screenshots/chat.png" width="30%" height="30%"/>
 
 ## Authors
 
