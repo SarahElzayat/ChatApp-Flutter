@@ -7,8 +7,8 @@ Using Flutter and Firebase services.
 
 ## Screenshots
 
-Login screen
-<img src="https://github.com/SarahElzayat/max_firebase/tree/master/screenshots/login.png" width="30%" height="30%"/>
+Login screen <br>
+<img src="https://github.com/SarahElzayat/ChatApp-Flutter/blob/master/screenshots/login.png" width="30%" height="30%"/>
 
 Signup screen
 <img src="https://github.com/SarahElzayat/max_firebase/tree/master/screenshots/signup.png" width="30%" height="30%"/>
