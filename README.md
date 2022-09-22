@@ -16,7 +16,7 @@ Signup screen <br>
 Chat screen <br>
 <img src="https://github.com/SarahElzayat/ChatApp-Flutter/blob/master/screenshots/chat.png" width="30%" height="30%"/>
 
-## Authors
+## Contributors 
 
 - [@sarahelzayat](https://www.github.com/sarahelzayat)
 
